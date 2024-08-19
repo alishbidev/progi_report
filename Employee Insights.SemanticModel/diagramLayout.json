@@ -1,0 +1,61 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 578.38305001469371,
+            "y": 97.099429590347484
+          },
+          "nodeIndex": "Business Unit",
+          "nodeLineageTag": "369e76fc-93ce-41de-b716-d2ee155084f6",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 127.08454036994641
+          },
+          "nodeIndex": "Department",
+          "nodeLineageTag": "1dbd09bc-fc3a-412e-afa4-83f55853ff99",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 271.20156119318523,
+            "y": 264.94412755019306
+          },
+          "nodeIndex": "Employee Data",
+          "nodeLineageTag": "181c273b-661a-4c1b-8c2c-979d7892b06a",
+          "size": {
+            "height": 492,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
